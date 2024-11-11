@@ -1,6 +1,7 @@
 {
   "private": true,
   "type": "module",
+  "packageManager": "^pnpm@6.32.4",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
